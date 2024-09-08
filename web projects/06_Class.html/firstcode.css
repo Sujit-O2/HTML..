@@ -1,0 +1,22 @@
+fieldset{
+    width: 20%;
+    margin: auto;
+    text-align: center;
+    background-image: linear-gradient(90deg,blue,brown);
+    color: rgb(57, 155, 155);
+    border: none;
+    border-radius: 40px;
+}
+button{
+    background-image: linear-gradient(90deg,rgb(241, 77, 104),rgb(122, 37, 122));
+    color: rgb(227, 227, 112);
+    width: 90px;
+    height: 30px;
+    border: none;
+    border-radius: 20px;
+}
+legend{
+    background-color: black;
+    background-image: linear-gradient(90deg,blue);
+    border-radius: 60px;
+}
